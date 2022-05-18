@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About me
-My name is Luis and I'm a Full-Stack Web Developer with special focus on backend, mainly using Node.js and Mongodb.
+My name is Luis and I'm a Full-Stack Web Developer with special focus on frontend apps built with React.
 
 -------------------
 
